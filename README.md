@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Xelzoid
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning HTML, CSS & JS
-- 📫 How to reach me:
-- TWT: @Xelzoid
+- Hello anyone reading this! I am Zangar, a young programmer from Kazakhstan, 
+- I'm currently learning C++
+- The reason I code is because I like the mental processing that comes with it, so my goal overall is to do some projects, maybe get a good job?
+- You can reach me on Insta, Twitter or Discord: @Xelzoid
 
 <!---
 Xelzoid/Xelzoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
