@@ -1,5 +1,5 @@
 - Hello anyone reading this! I am Zangar, a young programmer from Kazakhstan, 
-- I'm currently learning C++
+- I'm currently developing some projects!
 - The reason I code is because I like the mental processing that comes with it, so my goal overall is to do some projects, maybe get a good job?
 - You can reach me on Insta, Twitter or Discord: @Xelzoid
 
